@@ -8,4 +8,3 @@
    mozharness
    mozinfo
    mozprocess
-   setup
