@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    modules.rst
+   scripts.rst
 
 
 Indices and tables
